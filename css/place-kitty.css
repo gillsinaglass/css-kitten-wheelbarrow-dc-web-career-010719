@@ -5,7 +5,6 @@
   position: absolute;
   z-index: 1;
   top: 276px;
-@@ -9,7 +9,7 @@
 
 /* Select the image with id of kitty-2 */
 
@@ -14,7 +13,6 @@
   position: absolute;
   z-index: 2;
   top: 212px;
-@@ -18,7 +18,7 @@
 
 /* Select the image inside the element with an id of basket (using its descendent relationship) */
 
@@ -23,7 +21,7 @@
   position: absolute;
   z-index: 5;
   top: 291px;
-@@ -27,7 +27,7 @@
+
 
 /* Select the image based on it being a sibling that follows immediately after the element with an id of ball (using adjacent sibling selector) */
 
@@ -32,7 +30,6 @@
   position: absolute;
   z-index: 4;
   top: 260px;
-@@ -36,7 +36,7 @@
 
 /* Select the image that has an attribute value matching "Kitty 5" (using attribute selector) */
 
